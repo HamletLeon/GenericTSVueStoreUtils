@@ -1,0 +1,14 @@
+{
+  "defaultSeverity": "warning",
+  "rulesDirectory": [
+    "tslint-plugin-prettier"
+  ],
+  "rules": {
+    "prettier": true
+  },
+  "linterOptions": {
+    "exclude": [
+      "node_modules/**"
+    ]
+  }
+}
